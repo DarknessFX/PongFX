@@ -14,7 +14,9 @@
 
 # PongFX
 
-Pong game clone made in Unreal Engine 4.23.1 (compatible with newer versions).
+Pong game clone made in Unreal Engine 4.23.1 (compatible with newer versions). 
+
+Project info/blog at https://dfx.lv/gd/pongfx_4176/ .
 
 <img src="https://github.com/DarknessFX/PongFX/blob/main/ContentRaw/PongFX_screenshot.png" width="640px" />
 
