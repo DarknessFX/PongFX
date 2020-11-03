@@ -34,10 +34,10 @@ v1.0 - Released.
 
 ## Credits
 
-Specifications - http://www-classes.usc.edu/engr/ee-s/477p/s00/pong.html .
-Font - Classic Console - http://webdraft.hu/fonts/classic-console/ .
-Audio Content from UE4 Engine Content: EjectFromPlayer_Cue, EndSimulate_Cue, PossessPlayer_Cue, VR_click1_Cue .
-Unreal Engine by Epic Games - https://www.unrealengine.com/ .
+Specifications - http://www-classes.usc.edu/engr/ee-s/477p/s00/pong.html .<br/>
+Font - Classic Console - http://webdraft.hu/fonts/classic-console/ .<br/>
+Audio Content from UE4 Engine Content: EjectFromPlayer_Cue, EndSimulate_Cue, PossessPlayer_Cue, VR_click1_Cue .<br/>
+Unreal Engine by Epic Games - https://www.unrealengine.com/ .<br/>
 
 ## License
 
