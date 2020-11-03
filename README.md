@@ -16,7 +16,7 @@
 
 Pong game clone made in Unreal Engine 4.23.1 (compatible with newer versions).
 
-<img src="https://github.com/DarknessFX/PongFX/blob/master/ContentRaw/PongFX_screenshot.jpg" width="640px" />
+<img src="https://github.com/DarknessFX/PongFX/blob/master/ContentRaw/PongFX_screenshot.png" width="640px" />
 
 ## Features
 
@@ -26,7 +26,7 @@ Pong game clone made in Unreal Engine 4.23.1 (compatible with newer versions).
 - Minimum package build sizes using DefaultPakFileRules.ini . Ex: HTML5 20MB, Win64 34MB.
 - Following current UE4 Best Practices.
 - 1245 FPS, Game 0.70ms, Draw 0.74ms, GPU 0.84ms. (GPU 1080TI)
-<img src="https://github.com/DarknessFX/PongFX/blob/master/ContentRaw/PongFX_stats_1440p.jpg" width="640px" />
+<img src="https://github.com/DarknessFX/PongFX/blob/master/ContentRaw/PongFX_stats_1440p.png" width="640px" />
 
 ## Versioning
 
