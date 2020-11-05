@@ -32,6 +32,13 @@ Project info/blog at https://dfx.lv/gd/pongfx_4176/ .
 
 ## Versioning
 
+v1.1 - Released. Changelog:
+- Better control information screen.
+- Smoother player movement.
+- Faster AI movement and hit variation.
+- Replaced hard coded values for variables.
+- PackageBuilder.bat for automated build releases.
+
 v1.0 - Released.
 
 ## Credits
